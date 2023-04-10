@@ -12,4 +12,4 @@ It also turns sytax on and sets the color to elflord.
 These .vimrc settings will replace all existing vimrc settings until cleanup is run.
 ## bashrc
 This is my custom .bashrc configuration for Bash.
-It includes aliases such as `cdd` for "cd ..", `lsa` for "ls -A", `lsl` for "ls -l", `lsal` for "ls -Al", `targz <file>` to tar -zcvf a file, un`untar <file>` to untar a file, `cselab` to auto connect to a linux lab computer, `trash <file>` to move a file to .TRASH, and `rmtrash` to empty the .TRASH directory. This file also includes the functions that `targz` and `untar` use to tar and untar respectively.
+It includes aliases such as `cdd` for "cd ..", `lsa` for "ls -A", `lsl` for "ls -l", `lsal` for "ls -Al", `targz <file>` to tar -zcvf a file, `untar <file>` to untar a file, `cselab` to auto connect to a linux lab computer, `trash <file>` to move a file to .TRASH, and `rmtrash` to empty the .TRASH directory. This file also includes the functions that `targz` and `untar` use to tar and untar respectively.
